@@ -1,6 +1,8 @@
 # Nitro-Type-Hack
 A hack for nitro-type where you will have all the best cars in you garage!!!!
 
+__Make Sure you use both the userscripts:__ ``dealership.js`` and ``garage.js``.
+
 Remeber, this program is using ``userscripts``.
 
 Here is sample block
@@ -25,3 +27,6 @@ Here is sample block
 WHAT YOU SHOULD USE:
 
 Use tampermonkey. https://tampermonkey.net This can be found in the google store at this link. Click the link and paste your code: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+
+_KAUSHIK_
