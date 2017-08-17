@@ -9,7 +9,7 @@
 // @match        https://www.nitrotype.com/dealership
 // @updateURL    https://raw.githubusercontent.com/Kaushik-Rajarathinam/Nitro-type-car-hack/master/dealership.user.js
 // @downloadURL  https://raw.githubusercontent.com/Kaushik-Rajarathinam/Nitro-type-car-hack/master/dealership.user.js
-// @icon https://raw.githubusercontent.com/Kaushik-Rajarathinam/Nitro-type-car-hack/master/icon.jpg
+// @icon https://raw.githubusercontent.com/Kaushik-Rajarathinam/Nitro-type-car-hack
 // @grant unsafeWindow
 // @grant GM_addStyle
 // @grant GM_getValue
